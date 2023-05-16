@@ -38,3 +38,4 @@
 
 ![Gizem's Github Stats](https://github-readme-stats.vercel.app/api?username=GizemUstahuseyin&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizemUstahuseyin&langs_count=8&show_icons=true&theme=midnight-purple)](https://github.com/GizemUstahuseyin/github-readme-stats)
+
