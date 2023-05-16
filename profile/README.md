@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
 
-- 🌱 I’m currently learning *React Native, React JS, and Kotlin*
+- 🌱 I’m currently learning **React Native, React JS, and Kotlin**
 
-- 💬 Ask me about *HTML, CSS and C#*
+- 💬 Ask me about **HTML, CSS and C#**
 
-- 📫 How to reach me *gizemustahuseyin123@gmail.com*
+- 📫 How to reach me **gizemustahuseyin123@gmail.com**
 
-- 🤝  I'm open to collaborating on exciting projects as a *frontend developer, designer or dev rel*
+- 🤝  I'm open to collaborating on exciting projects as a **frontend developer, designer or dev rel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +31,10 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
+
+<br />
+
+![Gizem's Github Stats](https://github-readme-stats.vercel.app/api?username=GizemUstahuseyin&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizemUstahuseyin&langs_count=8&show_icons=true&theme=midnight-purple)](https://github.com/GizemUstahuseyin/github-readme-stats)
