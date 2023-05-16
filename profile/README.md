@@ -37,6 +37,7 @@
 
 <br />
 
-![Gizem's Github Stats](https://github-readme-stats.vercel.app/api?username=GizemUstahuseyin&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GizemUstahuseyin&langs_count=8&show_icons=true&theme=midnight-purple)](https://github.com/GizemUstahuseyin/github-readme-stats)
-
+![Gizem's Github Stats](https://github-readme-stats.vercel.app/api?username=Gizem&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gizem&langs_count=8&show_icons=true&theme=midnight-purple)](https://github.com/GizemUstahuseyin/github-readme-stats)
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/Gizem/Gizem/blob/output/github-contribution-grid-snake.gif)
