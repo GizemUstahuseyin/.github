@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gizem</h1>
 <h3 align="center">A passionate Front-End developer from Turkey</h3>
 
-<p align="left"> <a href="https://www.instagram.com/writecodewithme/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/torex.dev/"  width="16" height="16"/></a> </p>
-
 - 🌱 I’m currently learning *React Native, React JS, and Kotlin*
 
 - 💬 Ask me about *HTML, CSS and C#*
 
 - 📫 How to reach me *gizemustahuseyin123@gmail.com*
-- 
+
 - 🤝  I'm open to collaborating on exciting projects as a *frontend developer, designer or dev rel*
 
 <h3 align="left">Connect with me:</h3>
