@@ -34,10 +34,3 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
-
-<br />
-
-![Gizem's Github Stats](https://github-readme-stats.vercel.app/api?username=Gizem&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gizem&langs_count=8&show_icons=true&theme=midnight-purple)](https://github.com/GizemUstahuseyin/github-readme-stats)
-## Watch my contribution graph eaten by the snake🐍
-![snake gif](https://github.com/Gizem/Gizem/blob/output/github-contribution-grid-snake.gif)
